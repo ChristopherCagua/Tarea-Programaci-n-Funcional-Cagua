@@ -1,0 +1,4 @@
+Tarea map-reduce
+Calificación: 1.0/2
+El ejercicio 3, no ha sido desarrollado correctamente
+Errores en tiempo de ejecución
